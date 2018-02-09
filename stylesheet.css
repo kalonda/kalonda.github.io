@@ -1,0 +1,25 @@
+html { font-family: georgia;}
+body { padding: 10px 30px; background-color: lightgreen ; color: navajowhite ; font-family: times new roman; font-weight: bold; margin-top: 20px }
+h1 { font-size: 1.8em; color: navajowhite }
+h2 { font-size: 1.2em; color: greenyellow;}
+nav { background: blue; padding: 30px; width: 955px; height: 11; font-size: 20pt; position: fixed}
+nav ul { list-style: none; }
+nav ul li { display: inline; margin-left: 15px; font-weight: bold; }
+nav ul li a { color: white; }
+nav ul li a:visited { color: white; }
+nav ul li a:hover { color: orange; }
+nav img {width: 50 height: 30}
+a { text-decoration: none; color: blue; }
+a:visited { color:gray; }
+a:hover { color: orange; }
+span.important { font-weight: bold; color: yellow; }
+marquee { color: green; font-weight: bold}
+#content { width: 990px;
+      height: 1500px;
+      background: green;
+       ; 
+       padding: 12px}
+ 
+hr { color: black; padding: auto }
+#picture { width: 10px; height: 5px; background-color: orange; float: center }
+ 
